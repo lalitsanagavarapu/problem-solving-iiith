@@ -1,4 +1,2 @@
 Demo of SRIP Problem Solving text.. in fork only!
-Branch Lalit, this is for demoing Branching ...
-
-This is for testing pull
+Branch Lalit, this is for demoing Branching 
