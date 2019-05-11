@@ -1,7 +1,20 @@
+for revert
+Test
+Test
+Test
+for revert
+
+
 Demo of SRIP Problem Solving text.. in fork only!
+<<<<<<< HEAD
 Branch Lalit, this is for demoing Branching 
 
 Test for Revert..Test for Revert..Test for Revert..Test for Revert..
 
 
 Test for Revert..Test for Revert..Test for Revert..Test for Revert..
+=======
+Branch Lalit, this is for demoing Branching ...
+
+This is for testing pull
+>>>>>>> parent of 2437c12... Revert "Update SripDemo.txt"
